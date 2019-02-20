@@ -1,0 +1,10 @@
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\bin\Debug\SimpleCalculator.Tests.Unit.dll
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\bin\Debug\SimpleCalculator.Tests.Unit.pdb
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\bin\Debug\SimpleCalculator.exe
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\bin\Debug\SimpleCalculator.pdb
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\bin\Debug\SimpleCalculator.exe.config
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\obj\Debug\SimpleCalculator.Tests.Unit.csprojAssemblyReference.cache
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\obj\Debug\SimpleCalculator.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\obj\Debug\SimpleCalculator.Tests.Unit.csproj.CopyComplete
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\obj\Debug\SimpleCalculator.Tests.Unit.dll
+C:\Users\ddonoghue\Desktop\Advanced program\CA Cert\Sample test Cal\SimpleCalculator-master\SimpleCalculator.Tests.Unit\obj\Debug\SimpleCalculator.Tests.Unit.pdb
